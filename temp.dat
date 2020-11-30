@@ -1,0 +1,35 @@
+
+Statistics over 100000001 steps [ 0.0000 through 500000.0000 ps ], 1 data sets
+All statistics are over 1000001 points
+
+Energy                      Average   Err.Est.       RMSD  Tot-Drift
+-------------------------------------------------------------------------------
+Temperature                 300.058     0.0012   0.648937 0.00927098  (K)
+
+Statistics over 100000001 steps [ 0.0000 through 500000.0000 ps ], 1 data sets
+All statistics are over 1000001 points
+
+Energy                      Average   Err.Est.       RMSD  Tot-Drift
+-------------------------------------------------------------------------------
+Temperature                 300.063     0.0031   0.647731  0.0165502  (K)
+
+Statistics over 100000001 steps [ 0.0000 through 500000.0000 ps ], 1 data sets
+All statistics are over 1000001 points
+
+Energy                      Average   Err.Est.       RMSD  Tot-Drift
+-------------------------------------------------------------------------------
+Temperature                 300.065     0.0026   0.649722  0.0151299  (K)
+
+Statistics over 100000001 steps [ 0.0000 through 500000.0000 ps ], 1 data sets
+All statistics are over 1000001 points
+
+Energy                      Average   Err.Est.       RMSD  Tot-Drift
+-------------------------------------------------------------------------------
+Temperature                 300.048    0.00089   0.651033 -0.0050179  (K)
+
+Statistics over 100000001 steps [ 0.0000 through 500000.0000 ps ], 1 data sets
+All statistics are over 1000001 points
+
+Energy                      Average   Err.Est.       RMSD  Tot-Drift
+-------------------------------------------------------------------------------
+Temperature                 300.054     0.0021   0.639759 -0.00120496  (K)
